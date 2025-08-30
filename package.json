@@ -1,0 +1,13 @@
+{
+  "name": "fs-tetouane",
+  "version": "1.0.0",
+  "description": "Got it ✅ Here’s a **clean, well-documented README-style documentation** for your project that ties the **frontend (HTML + JS)**, **Node.js server**, and **Python Selenium scraper** together:",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
